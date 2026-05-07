@@ -45,9 +45,9 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>NewTopic</source><seg-source><mrk
+        phase-name="pretrans"><source>NewTopic new</source><seg-source><mrk
             mtype="seg"
-            mid="1">NewTopic</mrk></seg-source><target
+            mid="1">NewTopic new</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
